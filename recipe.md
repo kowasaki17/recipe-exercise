@@ -5,6 +5,6 @@
  - 100ml Oil
  - 20 Pickles
  - 2 Onions
- - Mustard
+ - 1 Spoon Mustard
  - Salt
  - Pepper
