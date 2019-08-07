@@ -1,9 +1,5 @@
 # recipe-exercise
 
-## Ingredients
+Exercise for "push" and "pull" between several clients and Github.
 
-## Process
-
-    - Cook the potatoes
-        - add grain of salt
-        - add some caraway seeds into the water
+Changes are done on the same master branch.
